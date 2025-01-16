@@ -10,7 +10,7 @@ const doc ={
         title:'Bookstore',
         description:'Bookstore api created by atul'
     },
-    host:'book-store-y7uv.vercel.app/books',
+    host:'localhost:4000',
     schemes: ['https'],
     definitions: {
         Book: {
